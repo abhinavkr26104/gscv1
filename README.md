@@ -1,1 +1,1 @@
-# gscv1
+# VideoGenAI-Learn
